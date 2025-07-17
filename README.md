@@ -4,7 +4,7 @@
 As part of my justIT Data Skills Bootcamp, I created an interactive dashboard in Tableau to analyze changes in the UK job market between 2011 and 2014. Using a dataset from EMSI, the dashboard visualizes job growth and decline across various cities and industries, allowing users to explore regional employment trends.
 
 #### View the Live Interactive Dashboard on Tableau Public
-](https://public.tableau.com/views/UKEmploymentDashboard_17527088806000/industry?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/UKEmploymentDashboard_17527088806000/industry?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 #### Employment Dashboard
 <img width="1121" height="634" alt="employment_dashboard" src="https://github.com/user-attachments/assets/d43c45fe-ebdc-47ab-9662-2a94d5c892f5" />
